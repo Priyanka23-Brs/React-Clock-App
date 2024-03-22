@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://github.com/Priyanka23-Brs/React-Clock-App.git/static/css/main.13605313.css",
-    "main.js": "https://github.com/Priyanka23-Brs/React-Clock-App.git/static/js/main.0a8924f6.js",
-    "static/js/787.0157ba9a.chunk.js": "https://github.com/Priyanka23-Brs/React-Clock-App.git/static/js/787.0157ba9a.chunk.js",
-    "static/media/BG.png": "https://github.com/Priyanka23-Brs/React-Clock-App.git/static/media/BG.0805d1c579b3eb137695.png",
-    "index.html": "https://github.com/Priyanka23-Brs/React-Clock-App.git/index.html",
-    "main.13605313.css.map": "https://github.com/Priyanka23-Brs/React-Clock-App.git/static/css/main.13605313.css.map",
-    "main.0a8924f6.js.map": "https://github.com/Priyanka23-Brs/React-Clock-App.git/static/js/main.0a8924f6.js.map",
-    "787.0157ba9a.chunk.js.map": "https://github.com/Priyanka23-Brs/React-Clock-App.git/static/js/787.0157ba9a.chunk.js.map"
+    "main.css": "/React-Clock-App/static/css/main.ac700b2b.css",
+    "main.js": "/React-Clock-App/static/js/main.1dc77fa9.js",
+    "static/js/787.0157ba9a.chunk.js": "/React-Clock-App/static/js/787.0157ba9a.chunk.js",
+    "static/media/BG.png": "/React-Clock-App/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/React-Clock-App/index.html",
+    "main.ac700b2b.css.map": "/React-Clock-App/static/css/main.ac700b2b.css.map",
+    "main.1dc77fa9.js.map": "/React-Clock-App/static/js/main.1dc77fa9.js.map",
+    "787.0157ba9a.chunk.js.map": "/React-Clock-App/static/js/787.0157ba9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13605313.css",
-    "static/js/main.0a8924f6.js"
+    "static/css/main.ac700b2b.css",
+    "static/js/main.1dc77fa9.js"
   ]
 }
